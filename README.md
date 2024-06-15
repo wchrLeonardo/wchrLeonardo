@@ -53,7 +53,8 @@
   <hr></div>
     <div align="center">
               
-[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-wicher/)
-
+<a href="https://www.linkedin.com/in/leonardo-wicher/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259bb2&height=120&section=footer"/>
