@@ -1,7 +1,34 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259bb2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259bb2&height=150&section=header"/>
 
           
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F1926&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Leonardo+Wicher;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F1926&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+IS+LEONARDO+WICHER;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Leonardo! A passionate DataBases student from Brazil.
+
+  - 🌱 I’m currently studying Multiplatform Software Development at Fatec. 
+
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data and Security.
+
+  - 📈 I want to do a postgraduate degree and a master's degree.
+
+  - 🧑🏾‍💻 I currently develop web applications in different languages.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 20 years old, currently living in Brazil. I study English frequently and for now I have level A2 certification for simple conversation. I have experience with Database, WEB, Desktop and Design technologies. I create content on social media about technology and my college project. I am also a Development and Sales Marketing technician.
+
+  - ⚡ I like watching series and anime in general. playing games and reading are things that help me stay entertained and stay focused on something.
+I'm an amateur writer in my spare time and I like telling stories and creating worlds. My favorite anime, game and series respectively are One Piece, God of War and Breaking Bad. lol \o/
+</details>
+
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E660FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wicher_leonardo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-wicher/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wchrLeonardo&show_icons=true&count_private=true&hide_border=true&title_color=fafafa&icon_color=259bb2&text_color=fafafa&bg_color=151515" alt="Leonardo Wicher github stats" /> 
