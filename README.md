@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259bb2&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a3871&height=130&section=header"/>
 
           
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F1926&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+IS+LEONARDO+WICHER;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -27,11 +27,11 @@ I'm an amateur writer in my spare time and I like telling stories and creating w
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E660FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wicher_leonardo/)
+[![Instagram](https://img.shields.io/badge/Instagram-9E38FC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wicher_leonardo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-wicher/)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wchrLeonardo&show_icons=true&count_private=true&hide_border=true&title_color=fafafa&icon_color=259bb2&text_color=fafafa&bg_color=151515" alt="Leonardo Wicher github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wchrLeonardo&show_icons=true&count_private=true&hide_border=true&title_color=fafafa&icon_color=1b81ff&text_color=fafafa&bg_color=151515" alt="Leonardo Wicher github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wchrLeonardo&layout=compact&hide_border=true&title_color=fafafa&text_color=F1F1F1&bg_color=151515" />
 </div>
 
