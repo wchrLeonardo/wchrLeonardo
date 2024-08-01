@@ -31,12 +31,9 @@ I'm an amateur writer in my spare time and I like telling stories and creating w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-wicher/)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wchrLeonardo&show_icons=true&count_private=true&hide_border=true&title_color=fafafa&icon_color=1b81ff&text_color=fafafa&bg_color=151515" alt="Leonardo Wicher github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wchrLeonardo&layout=compact&hide_border=true&title_color=fafafa&text_color=F1F1F1&bg_color=151515" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wchrLeonardo&hide_border=true&show_icons=true&theme=default" alt="Leonardo Wicher github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wchrLeonardo&layout=compact&hide_border=true&show_icons=true&theme=default" />
 </div>
-
-
-
 
 <div align="center">  
 <hr>
