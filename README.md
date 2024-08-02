@@ -39,7 +39,7 @@ I'm an amateur writer in my spare time and I like telling stories and creating w
 <hr>
 </div>
   
-## Portfolio:
+## Portfólio:
 ### Em andamento ⏳
 <!-- GIF -->
 <p align="left">
