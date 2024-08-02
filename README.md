@@ -57,7 +57,7 @@ I'm an amateur writer in my spare time and I like telling stories and creating w
   </div>
 
   <div style="flex-basis: 48%;">
-    <h3>Frameworks and Platforms</h3>
+    <h3>Frameworks & Platforms</h3>
     <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
